@@ -22,20 +22,20 @@
         # Update status when changed from long pressing the control\n
     </string>
 
-    <string name="settings_structure">Phone settings</string>
+    <string name="settings_structure">செல்பேசி அமைப்புகள்</string>
 
     <!--Brightness.kt-->
-    <string name="brightness">Brightness</string>
-    <string name="brightness_desc">Screen brightness</string>
+    <string name="brightness">வெளிச்சம்</string>
+    <string name="brightness_desc">">திரைவெளிச்சம்</</string>
 
     <!--AutoBrightness.kt-->
-    <string name="auto_brightness">Auto brightness</string>
-    <string name="enabled">Enabled</string>
-    <string name="disabled">Disabled</string>
+    <string name="auto_brightness">தானியங்கி வெளிச்சம்</string>
+    <string name="enabled">இயக்கு</string>
+    <string name="disabled">முடக்கு</string>
 
     <!--Flash.kt-->
-    <string name="flash">Flash torch</string>
-    <string name="flash_desc">Flash as torch</string>
+    <string name="flash">கைவிளக்கு</string>
+    <string name="flash_desc">ஃபிளாஷ் ஒளி விளக்கு</string>
 
     <!--TotalSilence.kt-->
     <string name="total_silence">Total silence</string>
