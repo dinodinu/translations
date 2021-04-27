@@ -163,8 +163,9 @@
     </string>
     <string name="translators">Translators</string>
     <string name="translators_list">
-        <b>@peter9811</b>: Spanish\n
-        <b>@vladrevers</b>: Russian, Ukrainian\n
+        <b>@peter9811</b>: ஸ்பானிஷ்\n
+        <b>@vladrevers</b>: ரஷ்ய, உக்ரேனியன்\n
+        <b>@dineshr</b>:  தமிழ்\n
     </string>
 
     <!--app_intro.xml-->
